@@ -42,3 +42,8 @@ git remote add github git@github.com:erhasoft/belajar.git
 10. Mengambil repo dari remote
 
 git clone git@github.com:erhasoft/belajar.git
+
+11. Mengupload repo local ke remote
+
+git push -u origin namaremote namabranch
+git push -u github master
