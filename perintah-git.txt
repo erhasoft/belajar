@@ -8,16 +8,21 @@ git ini nama-folder
 
 git satus
 
-3. Menyimpan perubahan ke repository
+3. Menambahkan perubahan ke staging area
 
 git add .
+
+4. Menyimpan perubahan ke repository
+
 git commit -m "pesan / keterangan commit"
 
-4. Melihat history perubahan
+5. Melihat history perubahan
 
 git log
 git log --oneline
 
-5 Melihat perbedaan (difference) antar versi
+6 Melihat perbedaan (difference) antar versi
+
+git diff commitId1..commitId2
 
 git diff commitId1..commitId2
