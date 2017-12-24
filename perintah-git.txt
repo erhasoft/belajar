@@ -32,3 +32,13 @@ git reset
 8. Menghapus perubahan di working dan staging (!!bahaya!!)
 
 git reset --hard
+
+9. Mendaftarkan remote repository
+
+git remote add namaremote urlremote
+
+git remote add github git@github.com:erhasoft/belajar.git
+
+10. Mengambil repo dari remote
+
+git clone git@github.com:erhasoft/belajar.git
