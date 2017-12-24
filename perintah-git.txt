@@ -24,5 +24,3 @@ git log --oneline
 6 Melihat perbedaan (difference) antar versi
 
 git diff commitId1..commitId2
-
-git diff commitId1..commitId2
