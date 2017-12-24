@@ -2,43 +2,43 @@
 
 1. Membuat repository baru
 
-git ini nama-folder
+        git ini nama-folder
 
 2. Melihat satus working folder
 
-git satus
+        git satus
 
 3. Menambahkan perubahan ke staging area
 
-git add .
+        git add .
 
 4. Menyimpan perubahan ke repository
 
-git commit -m "pesan / keterangan commit"
+        git commit -m "pesan / keterangan commit"
 
 5. Melihat history perubahan
 
-git log
-git log --oneline
+        git log
+        git log --oneline
 
 6 Melihat perbedaan (difference) antar versi
 
-git diff commitId1..commitId2
+        git diff commitId1..commitId2
 
 7. Menghapus perubahan di staging
 
-git reset
+        git reset
 
 8. Menghapus perubahan di working dan staging (!!bahaya!!)
 
-git reset --hard
+        git reset --hard
 
 9. Mendaftarkan remote repository
 
-git remote add namaremote urlremote
+        git remote add namaremote urlremote
 
-git remote add github git@github.com:erhasoft/belajar.git
+        git remote add github git@github.com:erhasoft/belajar.git
 
 10. Mengambil repo dari remote
 
-git clone git@github.com:erhasoft/belajar.git
+        git clone git@github.com:erhasoft/belajar.git
