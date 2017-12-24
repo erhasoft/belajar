@@ -24,3 +24,11 @@ git log --oneline
 6 Melihat perbedaan (difference) antar versi
 
 git diff commitId1..commitId2
+
+7. Menghapus perubahan di staging
+
+git reset
+
+8. Menghapus perubahan di working dan staging (!!bahaya!!)
+
+git reset --hard
