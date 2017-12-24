@@ -47,3 +47,7 @@ git clone git@github.com:erhasoft/belajar.git
 
 git push -u origin namaremote namabranch
 git push -u github master
+
+12. Melihat daftar branch
+
+git branch --all
