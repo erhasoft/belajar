@@ -2,3 +2,8 @@
 
 1. Membuat repository baru
 git ini nama-folder
+
+2. Menyimpan perubahan ke repository
+
+git add .
+git commit -m "pesan / keterangan commit"
